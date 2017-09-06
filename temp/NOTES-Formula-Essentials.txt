@@ -1,0 +1,14 @@
+When writing formulas, remember the "order of operations" from math.
+
+ORDER OF OPERATIONS - mnemonic reminders:
+United States - PEMDAS ("Please Excuse My Dear Aunt Sally") = Parentheses, Exponents, Multiplication, Division, Addition, Subtraction
+Canada - BEDMAS = Brackets, Exponents, Division, Multiplication, Addition, Subtraction
+UK - BIDMAS = Brackets, Indices, Division, Multiplication, Addition, Subtraction
+UK - BODMAS = Brackets, Orders, Division, Multiplication, Addition, Subtraction
+UK - BOMDAS = Brackets, Orders, Multiplication, Division, Addition, Subtraction
+
+you can easily see ALL of your formulas in a worksheet by choosing "SHOW FORMULAS" from the "FORMULAS" ribbon menu.
+
+You can also have all of your formulas in a worksheet selected by choosing "GO TO SPECIAL" from the "HOME" ribbon menu, and then choosing "FORMULAS"
+
+If you see a series of '#' signs in excel like this, ##############, that means there are numbers in that column and the column needs to be expanded in order to see those numbers.
