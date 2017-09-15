@@ -1,3 +1,0 @@
-all formulas begin with the equal sign
-=
-
