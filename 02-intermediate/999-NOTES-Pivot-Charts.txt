@@ -1,0 +1,13 @@
+PIVOT CHARTS allow you to quickly chart your data in different ways.
+
+To create a Pivot Chart:
+place your active cell within your table of data then go to:
+INSERT / PIVOT CHARTS
+
+You can download TEMPLATES from Microsoft's website to get more ideas for how to chart data.
+
+These templates are pre-built workbooks that will allow you to do a variety of things.
+
+It's a good idea to search TEMPLATES to see if someone has already created a workbook for what you want to do!
+
+
